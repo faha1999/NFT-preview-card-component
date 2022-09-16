@@ -10,8 +10,7 @@
 .nft {
   &-card {
     max-width: $card-width;
-    margin: 2rem auto;
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: $br-15;
     background-color: $cardBG;
     box-shadow: darken($mainBG, 1%) 0px 14px 28px,
